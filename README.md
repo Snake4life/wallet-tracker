@@ -1,2 +1,1 @@
-# wallet-tracker
-Listen to Ethereum transactions and track selected wallets for token swaps.
+[Google sheets template](https://docs.google.com/spreadsheets/d/1WcP6A1Y1WFL5gB6z0UOxk61AxRNlnUiSraQJVBGikBE)
